@@ -1,0 +1,15 @@
+DOCTYPE
+
+<!DOCTYPE> declaration is not a tag it is an instruction to the web browsers about the verison of HTML page.
+
+eg:
+
+<!DOCTYPE html>
+<html>
+<head>
+<title>Title of the document</title>
+</head>
+<body>
+<p>Body content of the document</p>
+</body>
+</html>
